@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "D0915",
+			"Path": "C:\\Work\\D0915\\Source\\D0915.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "D0915Editor",
+			"Path": "C:\\Work\\D0915\\Source\\D0915Editor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

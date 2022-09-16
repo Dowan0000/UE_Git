@@ -1,0 +1,15 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-D0915.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Work\D0915\Intermediate\Build\Win64\D0915Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Work\D0915\Intermediate\Build\Win64\UE4Editor\Development\D0915\D0915.cpp.obj"
+"C:\Work\D0915\Intermediate\Build\Win64\UE4Editor\Development\D0915\MyActor.cpp.obj"
+"C:\Work\D0915\Intermediate\Build\Win64\UE4Editor\Development\D0915\D0915.init.gen.cpp.obj"
+"C:\Work\D0915\Intermediate\Build\Win64\UE4Editor\Development\D0915\MyActor.gen.cpp.obj"
+"C:\Work\D0915\Intermediate\Build\Win64\UE4Editor\Development\D0915\Default.rc2.res"
+/OUT:"C:\Work\D0915\Intermediate\Build\Win64\UE4Editor\Development\D0915\UE4Editor-D0915.lib"
